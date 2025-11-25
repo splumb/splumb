@@ -1,3 +1,5 @@
+**Software Architect | Automotive Logistics & B2B Integration | MFT | Enterprise Content & Dataspace Solutions**
+
 ### Hi there 👋
 
 I am a Software Architect specialized in supply chain and enterprise B2B solutions, focused on developing resilient, scalable systems for the automotive industry and public sector. My work combines modern integration technologies, managed file transfer (MFT), and enterprise content management to enable secure, high-volume data exchange between organizations.
